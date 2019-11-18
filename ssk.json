@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fortnte-db",
+  "private_key_id": "cd3e5d0f0394ce398da4684ec2e697d11e4175bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyFARHYcj/A+fC\n+VHmLifcCsMFFOUcTyHPYbo3NWrUrm01HeFBeOXZIk/nELsMXgGkLnMoMI8WYONV\nHBuBAkEwrjuHMrfA52qXMk4oZ6JmmVcjB6+F2kHWhE06p/OESKlDtjqwJQgRhTqw\no2bEZ6/qxCy1Q/54COVTaJsRb2YPS6VuERJhVzQ5BrquY/UbGEXd2fvGr5ZBMIr2\nARmZH4uzR6PObqSUJvmL/6JaxPa04fkSQoRSlT91eAQbX96oNnHKB2VXYKKqf8M8\n4GK5M/Oxf1P7pDF/FyXWfLOBCA6d+vyQg0sH1TdKmVAqXQvWBWWBMWCz6fqZwS5R\nwW1jZfkvAgMBAAECggEAMf7TqrTF6O7QQRmdSDn6H9l3ojQZFMcUr3P5A2oAWcC0\n0V5XsPl/0mPDOhSk5xZ3cIBH/WcQrRA7ktgG0sPuyHuKI+110HdIIjXR4p8h5Zs0\nbxXHzhUWOeNACXFAuYlq2CNPu8dRyhV1AkWF4ytXJNq50JRL26hntfCe5Ji5dx5l\n03xXWZwRj8QQ51nviVmLkwBkyO8P71WeflDtvjTMFsxRWAlFSDI2S9M/YP2ZHOAi\npoT+nAV7GRoqaOp5R+gQ6XZ7kgpGuqpla1qcMLiLa4qq2+aWepnwYZ2Gtr5Vp+7C\nxAfoeh/tPGyjkRbhghGbWOosPtrMudiIBxxGZhGptQKBgQDrwdPbIjUREL7g9Wts\n/5SGlg4JYWYp/B3hqb3V2goCTSMhxlfhBSwjGO+Olu8+2rY1p2VbfGW/Bp0Mzsnk\naI5jUpIiiX2pnaq75xeYAPUr5SC6SAEIsuXiNE130GT2m19rTSKc6FSgkuhLAXr9\nIbaBfJTY83RijGFff2d+LkFjGwKBgQDBXll2W8vPIvFujjlc4aePt3562pteK4Uo\nQj8FLQcFWjMA9XUOxJosnykpB0CtGPc51RkKhONfbBqQaITHHlYBL5UxGV56giQz\nqOcYPZ2z6/rHqetoDy/L6/Rqoxd5WEKGlmkZAWiuMtHuttQYDgqKzEMF4/c887w1\nbJruSp4PfQKBgAjI3iYKLkQGhbZILsqO82/YY4mB8Zaa6FoiQwqW50ySpz5474lY\n8f4UzchYY23KJIP3StWP2xK1ImD5y5gRNU0KJJvY16/cSiJaSAzH7FrIXOHUEQXL\n9LjrDf/q6fgube3HoASMu6qIDtPMqFKKUQyeIcW7vJh3dqFiU+7ltlYFAoGBAIZk\nuc7uO/ep9Jz/ElVArIHRaYGfYC6SFskFSeGiCugoaZx3/LSX5gOvVx8h4EyuNl2m\ngvHxrEnMy6WkTuxJZEMMvCdU13pT6y9Qa9VINcwv7atJqMg5DeIwCz72PUFkG1CJ\nR2BOv1+bCJdd0IkrcR5ImyiD6Xkeeaez5PZLPBHNAoGBAICRsrE9ejygsWmsM1xJ\nsxc4w99SS28CMrfD8fUsUkiy/m/s/A8NrG2jPvUkKKWjE7NhW/41CU+yIn5/NbME\nqlDMDAGCOeRwBQa412H3RqipuhUf3n3sTYDq+qELiry/RkfxYkKmwdVsRZZrZm+W\nBBFFpKz1ILCEe0a3WArIAiBS\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-63fns@fortnte-db.iam.gserviceaccount.com",
+  "client_id": "105047073599870075239",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-63fns%40fortnte-db.iam.gserviceaccount.com"
+}
